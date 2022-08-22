@@ -1,0 +1,41 @@
+.container{
+    width: 500px;
+    height: 500px;
+}
+.khung1{
+    width: 190px;
+    height: 210px;
+    border-right: thick solid  rgb(39, 112, 94);
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.khung2{
+    background-color: rgb(39, 112, 94);
+    height: 37px;
+}
+.Number1{
+    border-bottom: 2px solid  rgb(39, 112, 94);
+    color: rgb(0, 101, 79);
+}
+.Number2{
+    background-color: rgb(39, 112, 94);
+    color:white;
+}
+.Number3{
+    border-bottom: 2px solid  rgb(39, 112, 94);
+    color: rgb(0, 101, 79);
+}
+.Number4{
+    border-bottom: 2px solid  rgb(39, 112, 94);;
+    color: rgb(0, 101, 79);
+}
+.Number5{
+    border-bottom: 2px solid  rgb(39, 112, 94);;
+    color: rgb(0, 101, 79);
+}
+.Number6{
+    color: darkorange;
+    position: relative;
+    top: 263px;
+    left: 600px;
+}
